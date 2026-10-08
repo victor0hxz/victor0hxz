@@ -56,6 +56,13 @@ Software development student interested in backend development, modding, automat
 
 ## GitHub Activity
 
+### Recent Public Repositories
+
+<!-- REPOSITORIES:START -->
+Repository list will be populated automatically by GitHub Actions.
+<!-- REPOSITORIES:END -->
+
+
 <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=victor0hxz&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor0hxz&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Most used languages" />
