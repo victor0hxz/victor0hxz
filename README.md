@@ -70,10 +70,9 @@ Software development student interested in backend development, modding, automat
 <!-- REPOSITORIES:END -->
 
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=victor0hxz&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor0hxz&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Most used languages" />
-</p>
+**Profile statistics:** [View repositories](https://github.com/victor0hxz?tab=repositories) · [View contributions](https://github.com/victor0hxz?tab=overview#user-activity-overview)
+
+**Languages:** See the primary language for each project in the automatically updated repository table above.
 
 **Contribution history:** [View my GitHub contribution graph](https://github.com/victor0hxz?tab=overview#user-activity-overview)
 
