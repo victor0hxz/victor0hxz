@@ -75,7 +75,7 @@ Software development student interested in backend development, modding, automat
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor0hxz&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Most used languages" />
 </p>
 
-![Contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=victor0hxz&theme=github-compact&hide_border=true)
+**Contribution history:** [View my GitHub contribution graph](https://github.com/victor0hxz?tab=overview#user-activity-overview)
 
 ---
 
