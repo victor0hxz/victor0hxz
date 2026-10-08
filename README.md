@@ -59,7 +59,14 @@ Software development student interested in backend development, modding, automat
 ### Recent Public Repositories
 
 <!-- REPOSITORIES:START -->
-Repository list will be populated automatically by GitHub Actions.
+| Repository | Description | Language |
+| --- | --- | --- |
+| [Mekanism-Unofficial-ATM11](https://github.com/victor0hxz/Mekanism-Unofficial-ATM11) | Unofficial fan compatibility build of Mekanism for Minecraft 26.1.2. | Java |
+| [TorchMaster-Unofficial-ATM11](https://github.com/victor0hxz/TorchMaster-Unofficial-ATM11) | Unofficial fan compatibility build of Torchmaster for Minecraft 26.1.2. | Java |
+| [MekanismExtras-Unofficial-ATM11](https://github.com/victor0hxz/MekanismExtras-Unofficial-ATM11) | Unofficial fan compatibility adaptation of Mekanism Extras for Minecraft 26.1.2 and ATM11 0.9.0. | Java |
+| [MultiBuilderTool-Unofficial-ATM11](https://github.com/victor0hxz/MultiBuilderTool-Unofficial-ATM11) | Unofficial fan compatibility adaptation of Multi Builder Tool for Minecraft 26.1.2 and ATM11 0.9.0. | Java |
+| [JEMM-Unofficial-ATM11](https://github.com/victor0hxz/JEMM-Unofficial-ATM11) | Unofficial fan compatibility adaptation of Just Enough Mekanism Multiblocks for Minecraft 26.1.2 and ATM11 0.9.0. | Java |
+| [ExtraHNN-Unofficial-ATM11](https://github.com/victor0hxz/ExtraHNN-Unofficial-ATM11) | Unofficial fan compatibility adaptation of Extra Hostile Neural Networks for Minecraft 26.1.2 and ATM11 0.9.0. | Java |
 <!-- REPOSITORIES:END -->
 
 
