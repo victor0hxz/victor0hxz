@@ -10,6 +10,7 @@ Software development student interested in backend development, modding, automat
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
@@ -75,7 +76,9 @@ Software development student interested in backend development, modding, automat
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor0hxz&layout=compact&langs_count=8&theme=github_dark&hide_border=true&cache_seconds=3600" alt="Most used programming languages" />
 </p>
 
-These cards update automatically as GitHub activity and public repository languages change. Statistics are provided by an external service and may be temporarily unavailable.
+**Other languages I use:** Python · JavaScript
+
+These cards update automatically as GitHub activity and public repository languages change. The language chart is calculated from public repository code, so languages without enough public code may not appear. Statistics are provided by an external service and may be temporarily unavailable.
 
 **Contribution history:** [View my GitHub contribution graph](https://github.com/victor0hxz?tab=overview#user-activity-overview)
 
