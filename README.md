@@ -70,9 +70,10 @@ Software development student interested in backend development, modding, automat
 <!-- REPOSITORIES:START -->
 | Repository | Description | Language |
 | --- | --- | --- |
-| [JEMM-Version-Locked](https://github.com/victor0hxz/JEMM-Version-Locked) | Just Enough Mekanism Multiblocks Version Locked — community compatibility build for Minecraft 26.1.2 / NeoForge | Java |
+| [Applied-Mekanistics-Version-Locked](https://github.com/victor0hxz/Applied-Mekanistics-Version-Locked) | Community port for Minecraft 26.1.2: AE2 and Mekanism Version Locked chemical integration with Extras support. Original credits and licenses preserved. | Java |
 | [MekanismMoreMachine-Version-Locked](https://github.com/victor0hxz/MekanismMoreMachine-Version-Locked) | Community Version Locked compatibility port of Mekanism MoreMachine for Minecraft 26.1.2 and ATM11 0.9.0; original MIT credits preserved. | Java |
 | [MekanismGenerators-Version-Locked](https://github.com/victor0hxz/MekanismGenerators-Version-Locked) | MekanismGenerators Version Locked — community compatibility build for Minecraft 26.1.2 / NeoForge | Java |
+| [JEMM-Version-Locked](https://github.com/victor0hxz/JEMM-Version-Locked) | Just Enough Mekanism Multiblocks Version Locked — community compatibility build for Minecraft 26.1.2 / NeoForge | Java |
 | [Mekanism-Version-Locked](https://github.com/victor0hxz/Mekanism-Version-Locked) | Mekanism Version Locked — community compatibility build for Minecraft 26.1.2 / NeoForge | Java |
 | [RFToolsBuilder-Version-Locked](https://github.com/victor0hxz/RFToolsBuilder-Version-Locked) | RFToolsBuilder Version Locked — community compatibility build for Minecraft 26.1.2 / NeoForge | Java |
 | [ExtraHNN-Version-Locked](https://github.com/victor0hxz/ExtraHNN-Version-Locked) | Extra Hostile Neural Networks Version Locked — community compatibility build for Minecraft 26.1.2 / NeoForge | Java |
@@ -81,7 +82,6 @@ Software development student interested in backend development, modding, automat
 | [SFM-Version-Locked](https://github.com/victor0hxz/SFM-Version-Locked) | Super Factory Manager Version Locked — community compatibility build for Minecraft 26.1.2 / NeoForge | Java |
 | [TorchMaster-Version-Locked](https://github.com/victor0hxz/TorchMaster-Version-Locked) | TorchMaster Version Locked — community compatibility build for Minecraft 26.1.2 / NeoForge | Java |
 | [RFToolsUtility-Version-Locked](https://github.com/victor0hxz/RFToolsUtility-Version-Locked) | RFToolsUtility Version Locked — community compatibility build for Minecraft 26.1.2 / NeoForge | Java |
-| [RFToolsDimensions-Version-Locked](https://github.com/victor0hxz/RFToolsDimensions-Version-Locked) | RFToolsDimensions Version Locked — community compatibility build for Minecraft 26.1.2 / NeoForge | Java |
 <!-- REPOSITORIES:END -->
 
 
