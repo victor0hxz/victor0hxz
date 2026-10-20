@@ -1,71 +1,93 @@
-# Victor
+<div align="center">
+  <img src="./assets/profile-banner.svg" alt="Victor Hugo Barbosa Pereira — Software Development and IT Infrastructure" width="100%" />
+</div>
 
-**Software Development · Java · Minecraft Modding · Infrastructure**
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_to-Internships_%26_Junior_Roles-2ea879?style=for-the-badge" alt="Open to internships and junior opportunities" />
+  <a href="https://www.linkedin.com/in/victor0hxz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:victor0hxz@gmail.com"><img src="https://img.shields.io/badge/Email-365b89?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/victor0hxz?tab=repositories"><img src="https://img.shields.io/badge/Public_Projects-17263b?style=for-the-badge&logo=github&logoColor=white" alt="Public projects" /></a>
+</p>
 
-Software development student interested in backend development, modding, automation, and server infrastructure. I work on Java-based projects, Minecraft mod compatibility, build tooling, and practical solutions for development environments.
+## About
 
-## Technical Stack
+I'm a developer based in Brazil, focused on **software development, backend systems and IT infrastructure**. I started programming and working with servers in 2024, and provided paid independent services in server setup, hosting and technical support in 2025.
 
-### Languages
+I enjoy working across the application and infrastructure layers: building web apps and Discord integrations, administering Linux servers, configuring network services and troubleshooting production-like environments.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Windows Batch](https://img.shields.io/badge/Windows_Batch-0078D6?style=flat-square&logo=windows&logoColor=white)
+Currently studying **Systems Development** at Grau Técnico and completing a **Computer & Network Installation and Repair apprenticeship** at SENAI.
 
-### Databases
+**Career focus:** backend / full stack development, infrastructure, Linux, networking and technical support. **Remote preferred**, open to hybrid and on-site opportunities.
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+<details>
+<summary><b>Sobre mim — português</b></summary>
+<br />
+Sou desenvolvedor em formação nas áreas de software e infraestrutura de TI. Tenho experiência prática com servidores Linux e Windows, hospedagem, redes, bancos de dados e bots para Discord. Atuei com serviços autônomos remunerados em 2025 e desenvolvo projetos próprios, incluindo uma plataforma SaaS. Busco vagas de estágio ou júnior, com preferência pelo trabalho remoto e abertura para oportunidades híbridas e presenciais.
+</details>
 
-### Development Tools
+## Featured work
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NeoForge](https://img.shields.io/badge/NeoForge-DF5D27?style=flat-square)
-![KubeJS](https://img.shields.io/badge/KubeJS-444444?style=flat-square)
+| Project | What it involves | Status |
+| :--- | :--- | :--- |
+| **MELUVIO** | Independently developing a multi-tenant SaaS foundation with web dashboard, API, Discord bot, authentication and tickets. **JavaScript, Node.js, React, Next.js, Fastify, PostgreSQL and Prisma**. | In development · private source |
+| **[Mekanism Version Locked](https://github.com/victor0hxz/Mekanism-Version-Locked)** | Community compatibility and maintenance work for Mekanism on modern Minecraft / NeoForge. | Public |
+| **[Applied Mekanistics Version Locked](https://github.com/victor0hxz/Applied-Mekanistics-Version-Locked)** | AE2 / Mekanism integration compatibility, with original project attribution and licenses preserved. | Public |
+| **[JEMM Version Locked](https://github.com/victor0hxz/JEMM-Version-Locked)** | Community adaptation of Just Enough Mekanism Multiblocks for the current modded Minecraft environment. | Public |
+| **REDE INIFINTY** | Co-created a Minecraft server network; handled hosting, a Discord bot and technical onboarding for the other owners. | Previous project · inactive |
 
-### Infrastructure & Platforms
+<sub>The MELUVIO platform is still being developed, not presented as a publicly launched commercial product. Community mod ports are credited to their original authors in their respective repositories.</sub>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Pterodactyl](https://img.shields.io/badge/Pterodactyl-10539F?style=flat-square)
+## Tech stack
 
-## What I Work On
+**Languages & web**
 
-- **Minecraft modding:** NeoForge development, porting mods to newer Minecraft versions, resolving dependency and compatibility issues, and integrating mods such as Applied Energistics 2 and Mekanism.
-- **Build systems:** Gradle configuration, Java toolchains, troubleshooting compilation errors, and improving build workflows.
-- **Automation and integrations:** JavaScript tools, Discord bots, KubeJS scripts, and task automation.
-- **Infrastructure:** Linux and Windows administration, virtualization, server hosting, networking, and cloud platforms.
+![JavaScript](https://img.shields.io/badge/JavaScript-202f46?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-202f46?style=flat-square&logo=nodedotjs&logoColor=68C96E)
+![Java](https://img.shields.io/badge/Java-202f46?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-202f46?style=flat-square&logo=html5&logoColor=E77855)
+![CSS3](https://img.shields.io/badge/CSS3-202f46?style=flat-square&logo=css3&logoColor=69B4FF)
+![PHP](https://img.shields.io/badge/PHP-202f46?style=flat-square&logo=php&logoColor=AD9FEF)
+![SQL](https://img.shields.io/badge/SQL-202f46?style=flat-square)
 
-## Selected Work
+**Application development**
 
-| Area | Focus |
-| --- | --- |
-| ME Infinity Cell | Applied Energistics 2 integration and custom storage-cell development |
-| Minecraft mod ports | Compatibility work for modern NeoForge and modded Minecraft environments |
-| Discord automation | Slash commands, modals, webhooks, and announcement workflows |
-| Server infrastructure | Minecraft server networks, proxy configuration, and hosting environments |
+![React](https://img.shields.io/badge/React-202f46?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-202f46?style=flat-square&logo=nextdotjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-202f46?style=flat-square&logo=fastify&logoColor=white)
+![Discord.js](https://img.shields.io/badge/Discord.js-202f46?style=flat-square&logo=discord&logoColor=8FA9FF)
+![Gradle](https://img.shields.io/badge/Gradle-202f46?style=flat-square&logo=gradle&logoColor=A4D9E6)
+![Git](https://img.shields.io/badge/Git-202f46?style=flat-square&logo=git&logoColor=F08061)
+![GitHub](https://img.shields.io/badge/GitHub-202f46?style=flat-square&logo=github&logoColor=white)
 
-## GitHub Activity
+**Databases & infrastructure**
 
-### Recent Public Repositories
+![MySQL](https://img.shields.io/badge/MySQL-202f46?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-202f46?style=flat-square&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-202f46?style=flat-square&logo=postgresql&logoColor=9CB8F6)
+![Prisma](https://img.shields.io/badge/Prisma-202f46?style=flat-square&logo=prisma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-202f46?style=flat-square&logo=linux&logoColor=F5D66D)
+![Ubuntu](https://img.shields.io/badge/Ubuntu_Server-202f46?style=flat-square&logo=ubuntu&logoColor=EC8B6B)
+![Docker](https://img.shields.io/badge/Docker-202f46?style=flat-square&logo=docker&logoColor=75C8FF)
+![Nginx](https://img.shields.io/badge/Nginx-202f46?style=flat-square&logo=nginx&logoColor=67D291)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-202f46?style=flat-square&logo=cloudflare&logoColor=F6B66A)
+![AWS](https://img.shields.io/badge/AWS-202f46?style=flat-square&logo=amazonwebservices&logoColor=FFB86B)
+![Azure](https://img.shields.io/badge/Azure-202f46?style=flat-square&logo=icloud&logoColor=90BAFF)
+![Pterodactyl](https://img.shields.io/badge/Pterodactyl-202f46?style=flat-square)
+
+<sub>Also worked with Windows Server, Apache and VirtualBox. Currently learning Python and Lua; building further experience with database administration, networks and cloud platforms.</sub>
+
+## Practical experience
+
+- **Independent IT services (2025):** configured Linux servers, VPS and game hosting, managed panels and databases, and supported clients with troubleshooting and setup.
+- **Networking & hosting:** worked with DNS, TCP/IP, firewalls, SSH, virtualization, server administration and game-server infrastructure.
+- **SENAI structured cabling project (2026):** participated in a team exercise to plan and implement a structured cabling environment for a simulated business.
+
+## GitHub activity
+
+The public-repository list below is maintained by a [GitHub Actions workflow](./.github/workflows/update-repositories.yml) that checks for updates hourly. The selected projects above are curated; this list changes automatically.
+
+<details>
+<summary><b>See recently updated public repositories</b></summary>
 
 <!-- REPOSITORIES:START -->
 | Repository | Description | Language |
@@ -84,18 +106,14 @@ Software development student interested in backend development, modding, automat
 | [RFToolsUtility-Version-Locked](https://github.com/victor0hxz/RFToolsUtility-Version-Locked) | RFToolsUtility Version Locked — community compatibility build for Minecraft 26.1.2 / NeoForge | Java |
 <!-- REPOSITORIES:END -->
 
+</details>
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=victor0hxz&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&cache_seconds=3600" alt="Victor's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor0hxz&layout=compact&langs_count=8&theme=github_dark&hide_border=true&cache_seconds=3600" alt="Most used programming languages" />
+<p align="center">
+  <a href="https://github.com/victor0hxz?tab=overview"><img src="https://img.shields.io/badge/View_GitHub_Activity-202f46?style=for-the-badge&logo=github&logoColor=white" alt="View contribution history on GitHub" /></a>
 </p>
-
-**Other languages I use:** Python · JavaScript · PHP · SQL · Lua
-
-These cards update automatically as GitHub activity and public repository languages change. The language chart is calculated from public repository code, so languages without enough public code may not appear. Statistics are provided by an external service and may be temporarily unavailable.
-
-**Contribution history:** [View my GitHub contribution graph](https://github.com/victor0hxz?tab=overview#user-activity-overview)
 
 ---
 
-<sub>Interested in software development, systems engineering, and building reliable tools.</sub>
+<p align="center">
+  <sub>Focused on building, learning, documenting and keeping systems reliable.</sub>
+</p>
