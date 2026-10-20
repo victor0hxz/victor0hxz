@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Victor Hugo Barbosa Pereira — Software Development and IT Infrastructure</title>
+  <desc id="desc">Dark navy technology banner with blue highlights, a developer terminal and interconnected network nodes.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="55%" stop-color="#101e35"/>
+      <stop offset="100%" stop-color="#0c1628"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#4c9aff"/>
+      <stop offset="100%" stop-color="#45dfd2"/>
+    </linearGradient>
+    <radialGradient id="aura" cx="75%" cy="38%" r="58%">
+      <stop offset="0%" stop-color="#2176ce" stop-opacity=".21"/>
+      <stop offset="100%" stop-color="#2176ce" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#79a7d9" stroke-opacity=".065" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="280" rx="20" fill="url(#background)"/>
+  <rect width="1200" height="280" rx="20" fill="url(#grid)"/>
+  <rect width="1200" height="280" rx="20" fill="url(#aura)"/>
+  <rect x="43" y="48" width="4" height="174" rx="2" fill="url(#accent)"/>
+  <text x="72" y="79" fill="#8ac3fb" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="3.4">SOFTWARE DEVELOPMENT  /  IT INFRASTRUCTURE</text>
+  <text x="69" y="137" fill="#f1f7ff" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">Victor Hugo</text>
+  <text x="72" y="180" fill="#c9d8e8" font-family="Arial, Helvetica, sans-serif" font-size="29" letter-spacing="2.3">Barbosa Pereira</text>
+  <text x="72" y="222" fill="#a6bad1" font-family="Arial, Helvetica, sans-serif" font-size="16">Backend &amp; Full Stack  ·  Linux &amp; Networking  ·  Automation</text>
+  <g transform="translate(820 45)">
+    <rect width="324" height="192" rx="15" fill="#0b1528" stroke="#2c527a" stroke-width="1.5"/>
+    <path d="M0 34h324" stroke="#2c527a" stroke-width="1.5"/>
+    <circle cx="20" cy="17" r="5" fill="#e47a86"/>
+    <circle cx="37" cy="17" r="5" fill="#e8b664"/>
+    <circle cx="54" cy="17" r="5" fill="#69d0b4"/>
+    <text x="21" y="66" font-family="Consolas, monospace" font-size="15" fill="#62d7c5">$ build --ship</text>
+    <text x="21" y="94" font-family="Consolas, monospace" font-size="14" fill="#bad3ea">services online</text>
+    <text x="21" y="117" font-family="Consolas, monospace" font-size="14" fill="#bad3ea">systems connected</text>
+    <text x="21" y="140" font-family="Consolas, monospace" font-size="14" fill="#bad3ea">learning every day</text>
+    <path d="M22 159h280" stroke="#2d4a69"/>
+    <circle cx="235" cy="81" r="7" fill="#4c9aff"/>
+    <circle cx="285" cy="105" r="7" fill="#45dfd2"/>
+    <circle cx="252" cy="148" r="7" fill="#4c9aff"/>
+    <path d="M235 81L285 105 252 148 235 81" stroke="#4c9aff" stroke-opacity=".6" stroke-width="2" fill="none"/>
+  </g>
+  <path d="M0 268H1200" stroke="url(#accent)" stroke-opacity=".9" stroke-width="4"/>
+</svg>
